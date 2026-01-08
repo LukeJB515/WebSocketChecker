@@ -90,7 +90,7 @@ namespace WebSocket
             Console.WriteLine();
         }
 
-        private static void HandleKnownWebSocket()
+        private static async Task HandleKnownWebSocket()
         {
             bool returnToWebSocketMenu = false;
 
@@ -127,13 +127,22 @@ namespace WebSocket
 
                 if (WebSocketValidator.IsValidUri(selectedWebSocket, out string? errorMessage))
                 {
+                    Console.WriteLine($"\nSelected WebSocket: {selectedWebSocket}");
+                    Console.WriteLine("Validating connectivity...");
+
+                    Uri uri = new Uri(selectedWebSocket);
+
+                    var result = await WebSocketTester.TestConnectionAsync(uri, TimeSpan.FromSeconds(5));
+                    bool success = result.Success;
+                    string resultMessage = result.Message;
+
                     Console.WriteLine();
-                    Console.WriteLine();
-                    Console.WriteLine();
+                    Console.WriteLine(/*success ? "SUCCESS" : "FAILURE"*/);
+                    Console.WriteLine(/*resultMessage*/);
                 }
                 else
                 {
-                    Console.WriteLine();
+                    Console.WriteLine(/*$"\nError: {errorMessage}"*/);
                 }
 
                 Console.WriteLine("");
@@ -141,11 +150,39 @@ namespace WebSocket
             }
         }
         
-        private static void HandleCustomWebSocket()
+        private static async Task HandleCustomWebSocket()
         {
             Console.Clear();
-            Console.WriteLine("Custom WebSocket entry not yet implemented.");
+            Console.WriteLine("=== Enter a Custom WebSocket ===");
+            Console.Write("WebSocket URI: ");
+            string? input = Console.ReadLine();
+
+            if (!WebSocketValidator.IsValidUri(input!, out string? errorMessage))
+            {
+                Console.WriteLine($"\nYou entered: {input}");
+                Console.WriteLine("WebSocket URI is valid.");
+                Console.WriteLine("\n[Future: Here we will test connectivity]");
+            }
+            else
+            {
+                Console.WriteLine($"\nError: {errorMessage}");
+                Console.WriteLine("\nPress any key to return...");
+                Console.ReadKey();
+                return;
+            }
+
+            Uri uri = new Uri(input!);
+
+            Console.WriteLine("\nValidating connectivity...");
+
+            var result = await WebSocketTester.TestConnectionAsync(uri, TimeSpan.FromSeconds(5));
+            bool success = result.Success;
+            string resultMessage = result.Message;
+
             Console.WriteLine();
+            Console.WriteLine(/*success ? "SUCCESS" : "FAILURE"*/);
+            Console.WriteLine(/*resultMessage*/);
+
             Console.WriteLine("Press any key to return...");
             Console.ReadKey();
         }
