@@ -137,12 +137,12 @@ namespace WebSocket
                     string resultMessage = result.Message;
 
                     Console.WriteLine();
-                    Console.WriteLine(/*success ? "SUCCESS" : "FAILURE"*/);
-                    Console.WriteLine(/*resultMessage*/);
+                    Console.WriteLine(success ? "SUCCESS" : "FAILURE");
+                    Console.WriteLine(resultMessage);
                 }
                 else
                 {
-                    Console.WriteLine(/*$"\nError: {errorMessage}"*/);
+                    Console.WriteLine($"\nError: {errorMessage}");
                 }
 
                 Console.WriteLine("");
@@ -180,8 +180,8 @@ namespace WebSocket
             string resultMessage = result.Message;
 
             Console.WriteLine();
-            Console.WriteLine(/*success ? "SUCCESS" : "FAILURE"*/);
-            Console.WriteLine(/*resultMessage*/);
+            Console.WriteLine(success ? "SUCCESS" : "FAILURE");
+            Console.WriteLine(resultMessage);
 
             Console.WriteLine("Press any key to return...");
             Console.ReadKey();

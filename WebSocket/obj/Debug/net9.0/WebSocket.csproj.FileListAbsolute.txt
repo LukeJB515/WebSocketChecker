@@ -12,3 +12,4 @@ C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocke
 C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.pdb
 C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.genruntimeconfig.cache
 C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\ref\WebSocket.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.sourcelink.json
