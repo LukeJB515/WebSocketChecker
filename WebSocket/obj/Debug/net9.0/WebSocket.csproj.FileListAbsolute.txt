@@ -1,0 +1,14 @@
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\bin\Debug\net9.0\WebSocket.exe
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\bin\Debug\net9.0\WebSocket.deps.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\bin\Debug\net9.0\WebSocket.runtimeconfig.json
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\bin\Debug\net9.0\WebSocket.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\bin\Debug\net9.0\WebSocket.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.AssemblyInfoInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.AssemblyInfo.cs
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.csproj.CoreCompileInputs.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\refint\WebSocket.dll
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.pdb
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\WebSocket.genruntimeconfig.cache
+C:\Users\lukee\OneDrive\Desktop\Console Apps\WebSocketChecker\WebSocket\WebSocket\obj\Debug\net9.0\ref\WebSocket.dll
