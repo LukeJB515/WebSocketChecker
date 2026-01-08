@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websocketregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\websocketregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websocketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\websocketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websockettestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\websockettestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websockettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\websockettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websocketregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\websocketregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WebSocketTester.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketTester.cs",
-              "RelativeDocumentMoniker": "WebSocket\\WebSocketTester.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketTester.cs",
-              "RelativeToolTip": "WebSocket\\WebSocketTester.cs",
+              "Title": "WebSocketRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketRegistry.cs",
+              "RelativeDocumentMoniker": "WebSocket\\WebSocketRegistry.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketRegistry.cs",
+              "RelativeToolTip": "WebSocket\\WebSocketRegistry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T23:57:06.935Z"
+              "WhenOpened": "2026-01-08T17:15:19.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "WebSocketTestResult.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketTestResult.cs",
+              "RelativeDocumentMoniker": "WebSocket\\WebSocketTestResult.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketTestResult.cs",
+              "RelativeToolTip": "WebSocket\\WebSocketTestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:08:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "WebSocketValidator.cs",
               "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketValidator.cs",
               "RelativeDocumentMoniker": "WebSocket\\WebSocketValidator.cs",
@@ -54,29 +72,18 @@
               "RelativeToolTip": "WebSocket\\WebSocketValidator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T23:56:52.48Z"
+              "WhenOpened": "2026-01-07T23:56:52.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebSocketRegistry.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketRegistry.cs",
-              "RelativeDocumentMoniker": "WebSocket\\WebSocketRegistry.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketRegistry.cs",
-              "RelativeToolTip": "WebSocket\\WebSocketRegistry.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T23:55:18.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\Program.cs",
               "RelativeDocumentMoniker": "WebSocket\\Program.cs",
               "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\Program.cs",
               "RelativeToolTip": "WebSocket\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAIsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAD4v4gAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T23:53:35.931Z",
               "EditorCaption": ""
@@ -91,7 +98,21 @@
               "RelativeToolTip": "WebSocket\\MenuService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T23:54:46.695Z"
+              "WhenOpened": "2026-01-07T23:54:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebSocketTester.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketTester.cs",
+              "RelativeDocumentMoniker": "WebSocket\\WebSocketTester.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketTester.cs",
+              "RelativeToolTip": "WebSocket\\WebSocketTester.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:57:06.935Z",
+              "EditorCaption": ""
             }
           ]
         }
