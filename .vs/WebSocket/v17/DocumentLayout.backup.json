@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websockettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\websockettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websockettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|solutionrelative:websocket\\websockettester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFB1C9ED-F356-4644-BAF9-86348D2B94D4}|WebSocket\\WebSocket.csproj|c:\\users\\lukee\\onedrive\\desktop\\console apps\\websocketchecker\\websocket\\websocket\\websocketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "WebSocket\\Program.cs",
               "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\Program.cs",
               "RelativeToolTip": "WebSocket\\Program.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAIwLcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAD4v0gAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T23:53:35.931Z",
               "EditorCaption": ""
@@ -88,6 +88,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\MenuService.cs",
+              "RelativeDocumentMoniker": "WebSocket\\MenuService.cs",
+              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\MenuService.cs",
+              "RelativeToolTip": "WebSocket\\MenuService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vyYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:54:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WebSocketTester.cs",
               "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\WebSocketTester.cs",
               "RelativeDocumentMoniker": "WebSocket\\WebSocketTester.cs",
@@ -96,18 +109,6 @@
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T23:57:06.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuService.cs",
-              "DocumentMoniker": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\MenuService.cs",
-              "RelativeDocumentMoniker": "WebSocket\\MenuService.cs",
-              "ToolTip": "C:\\Users\\lukee\\OneDrive\\Desktop\\Console Apps\\WebSocketChecker\\WebSocket\\WebSocket\\MenuService.cs",
-              "RelativeToolTip": "WebSocket\\MenuService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T23:54:46.695Z"
             }
           ]
         }
